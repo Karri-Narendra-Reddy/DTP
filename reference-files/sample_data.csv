@@ -1,0 +1,92 @@
+Question Number,Question Text,Statement,Question Instructions,Answer,Answer Number,Answer Type,Question Type
+1,What are your primary concerns when it comes to haircare?,NULL,(Select all that apply.),Hair loss,1,Checkbox,MCMS
+1,What are your primary concerns when it comes to haircare?,NULL,(Select all that apply.),Lack of volume,2,Checkbox,MCMS
+1,What are your primary concerns when it comes to haircare?,NULL,(Select all that apply.),Dandruff and flakiness,3,Checkbox,MCMS
+1,What are your primary concerns when it comes to haircare?,NULL,(Select all that apply.),Dry or brittle hair,4,Checkbox,MCMS
+1,What are your primary concerns when it comes to haircare?,NULL,(Select all that apply.),Hair breakage,5,Checkbox,MCMS
+1,What are your primary concerns when it comes to haircare?,NULL,(Select all that apply.),Split ends,6,Checkbox,MCMS
+1,What are your primary concerns when it comes to haircare?,NULL,(Select all that apply.),Thinning of hair,7,Checkbox,MCMS
+1,What are your primary concerns when it comes to haircare?,NULL,(Select all that apply.),Hair dullness,8,Checkbox,MCMS
+1,What are your primary concerns when it comes to haircare?,NULL,(Select all that apply.),Frizzy hair,9,Checkbox,MCMS
+1,What are your primary concerns when it comes to haircare?,NULL,(Select all that apply.),Itchy/dry scalp,10,Checkbox,MCMS
+1,What are your primary concerns when it comes to haircare?,NULL,(Select all that apply.),Fine/thin hair,11,Checkbox,MCMS
+1,What are your primary concerns when it comes to haircare?,NULL,(Select all that apply.),Oily hair/scalp,12,Checkbox,MCMS
+1,What are your primary concerns when it comes to haircare?,NULL,(Select all that apply.),Other,13,Checkbox,MCMS
+1,What are your primary concerns when it comes to haircare?,NULL,(Select all that apply.),None of the above,14,Checkbox,MCMS
+2,You mentioned that you purchased Shampoo in the past 6 months.  Which of the following have you purchased?,NULL,(Please select one),Prescription Shampoo,1,Radio Button,MCSS
+2,You mentioned that you purchased Shampoo in the past 6 months.  Which of the following have you purchased?,NULL,(Please select one),Non-prescription shampoo,2,Radio Button,MCSS
+2,You mentioned that you purchased Shampoo in the past 6 months.  Which of the following have you purchased?,NULL,(Please select one),Both,3,Radio Button,MCSS
+3,You mentioned that you purchased Conditioner in the past 6 months.  Which of the following have you purchased?,NULL,(Please select one.),Prescription conditioner,1,Radio Button,MCSS
+3,You mentioned that you purchased Conditioner in the past 6 months.  Which of the following have you purchased?,NULL,(Please select one.),Non-prescription conditioner,2,Radio Button,MCSS
+3,You mentioned that you purchased Conditioner in the past 6 months.  Which of the following have you purchased?,NULL,(Please select one.),Both,3,Radio Button,MCSS
+4,What effect does the new product (${ProductName}) have on your perceptions of the [ParentBrand] brand?,NULL,(Please select one.),Makes me much more likely to buy [ParentBrand],1,Radio Button,MCSS
+4,What effect does the new product (${ProductName}) have on your perceptions of the [ParentBrand] brand?,NULL,(Please select one.),Makes me somewhat more likely to buy [ParentBrand],2,Radio Button,MCSS
+4,What effect does the new product (${ProductName}) have on your perceptions of the [ParentBrand] brand?,NULL,(Please select one.),Does not affect my purchase decision,3,Radio Button,MCSS
+4,What effect does the new product (${ProductName}) have on your perceptions of the [ParentBrand] brand?,NULL,(Please select one.),Makes me somewhat less likely to buy [ParentBrand],4,Radio Button,MCSS
+4,What effect does the new product (${ProductName}) have on your perceptions of the [ParentBrand] brand?,NULL,(Please select one.),Makes me much less likely to buy [ParentBrand],5,Radio Button,MCSS
+5,Which benefits of the new product (${ProductName}) are the most important to you?,NULL,Please select up to 2 responses.,Strengthens and thickens my hair,1,Radio Button,MCSS
+5,Which benefits of the new product (${ProductName}) are the most important to you?,NULL,Please select up to 2 responses.,Stimulates hair growth,2,Radio Button,MCSS
+5,Which benefits of the new product (${ProductName}) are the most important to you?,NULL,Please select up to 2 responses.,Makes my hair healthy,3,Radio Button,MCSS
+5,Which benefits of the new product (${ProductName}) are the most important to you?,NULL,Please select up to 2 responses.,Prevents hair loss or thinning of hair,4,Radio Button,MCSS
+5,Which benefits of the new product (${ProductName}) are the most important to you?,NULL,Please select up to 2 responses.,Hydrates and moisturizes my hair,5,Radio Button,MCSS
+5,Which benefits of the new product (${ProductName}) are the most important to you?,NULL,Please select up to 2 responses.,Adds volume to my hair,6,Radio Button,MCSS
+5,Which benefits of the new product (${ProductName}) are the most important to you?,NULL,Please select up to 2 responses.,"Reduces itching, flaking, irritation of the scalp",7,Radio Button,MCSS
+5,Which benefits of the new product (${ProductName}) are the most important to you?,NULL,Please select up to 2 responses.,Would be worth paying more for,8,Radio Button,MCSS
+5,Which benefits of the new product (${ProductName}) are the most important to you?,NULL,Please select up to 2 responses.,Contains high quality ingredients,9,Radio Button,MCSS
+5,Which benefits of the new product (${ProductName}) are the most important to you?,NULL,Please select up to 2 responses.,Would improve the condition of my scalp,10,Radio Button,MCSS
+5,Which benefits of the new product (${ProductName}) are the most important to you?,NULL,Please select up to 2 responses.,Would leave hair looking clean,11,Radio Button,MCSS
+5,Which benefits of the new product (${ProductName}) are the most important to you?,NULL,Please select up to 2 responses.,Would be gentle on my scalp,12,Radio Button,MCSS
+5,Which benefits of the new product (${ProductName}) are the most important to you?,NULL,Please select up to 2 responses.,Is dermatologist developed and tested,13,Radio Button,MCSS
+5,Which benefits of the new product (${ProductName}) are the most important to you?,NULL,Please select up to 2 responses.,Would be suitable for everyday use,14,Radio Button,MCSS
+5,Which benefits of the new product (${ProductName}) are the most important to you?,NULL,Please select up to 2 responses.,None of these benefits are important to me,15,Radio Button,MCSS
+6,You mentioned you would be neutral towards purchasing the new product (${ProductName}) or would not purchase.  Which of the following describes why?,NULL,(Select all that apply.),I do not need the product,1,Checkbox,MCMS
+6,You mentioned you would be neutral towards purchasing the new product (${ProductName}) or would not purchase.  Which of the following describes why?,NULL,(Select all that apply.),I do not like recurring subscriptions,2,Checkbox,MCMS
+6,You mentioned you would be neutral towards purchasing the new product (${ProductName}) or would not purchase.  Which of the following describes why?,NULL,(Select all that apply.),I prefer purchasing these products from a physical store,3,Checkbox,MCMS
+6,You mentioned you would be neutral towards purchasing the new product (${ProductName}) or would not purchase.  Which of the following describes why?,NULL,(Select all that apply.),Too expensive,4,Checkbox,MCMS
+6,You mentioned you would be neutral towards purchasing the new product (${ProductName}) or would not purchase.  Which of the following describes why?,NULL,(Select all that apply.),Unsure I believe the claims made,5,Checkbox,MCMS
+6,You mentioned you would be neutral towards purchasing the new product (${ProductName}) or would not purchase.  Which of the following describes why?,NULL,(Select all that apply.),I prefer other brands to address my hair needs,6,Checkbox,MCMS
+6,You mentioned you would be neutral towards purchasing the new product (${ProductName}) or would not purchase.  Which of the following describes why?,NULL,(Select all that apply.),I don't know,7,Checkbox,MCMS
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Biodegradability,Please select up to 2 responses.,Much better than other similar products,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Biodegradability,Please select up to 2 responses.,Somewhat better,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Biodegradability,Please select up to 2 responses.,About the same,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Biodegradability,Please select up to 2 responses.,Somewhat worse,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Biodegradability,Please select up to 2 responses.,Much worse than other similar products,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Sulfate free,Please select up to 2 responses.,Much better than other similar products,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Sulfate free,Please select up to 2 responses.,Somewhat better,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Sulfate free,Please select up to 2 responses.,About the same,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Sulfate free,Please select up to 2 responses.,Somewhat worse,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Sulfate free,Please select up to 2 responses.,Much worse than other similar products,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Made with carefully selected ingredients,Please select up to 2 responses.,Much better than other similar products,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Made with carefully selected ingredients,Please select up to 2 responses.,Somewhat better,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Made with carefully selected ingredients,Please select up to 2 responses.,About the same,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Made with carefully selected ingredients,Please select up to 2 responses.,Somewhat worse,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Made with carefully selected ingredients,Please select up to 2 responses.,Much worse than other similar products,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Made with naturally derived ingredients,Please select up to 2 responses.,Much better than other similar products,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Made with naturally derived ingredients,Please select up to 2 responses.,Somewhat better,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Made with naturally derived ingredients,Please select up to 2 responses.,About the same,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Made with naturally derived ingredients,Please select up to 2 responses.,Somewhat worse,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Made with naturally derived ingredients,Please select up to 2 responses.,Much worse than other similar products,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Made with plant based ingredients,Please select up to 2 responses.,Much better than other similar products,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Made with plant based ingredients,Please select up to 2 responses.,Somewhat better,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Made with plant based ingredients,Please select up to 2 responses.,About the same,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Made with plant based ingredients,Please select up to 2 responses.,Somewhat worse,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Made with plant based ingredients,Please select up to 2 responses.,Much worse than other similar products,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Made with vitamins,Please select up to 2 responses.,Much better than other similar products,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Made with vitamins,Please select up to 2 responses.,Somewhat better,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Made with vitamins,Please select up to 2 responses.,About the same,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Made with vitamins,Please select up to 2 responses.,Somewhat worse,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Made with vitamins,Please select up to 2 responses.,Much worse than other similar products,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Natural scent,Please select up to 2 responses.,Much better than other similar products,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Natural scent,Please select up to 2 responses.,Somewhat better,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Natural scent,Please select up to 2 responses.,About the same,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Natural scent,Please select up to 2 responses.,Somewhat worse,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Natural scent,Please select up to 2 responses.,Much worse than other similar products,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Natural product color,Please select up to 2 responses.,Much better than other similar products,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Natural product color,Please select up to 2 responses.,Somewhat better,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Natural product color,Please select up to 2 responses.,About the same,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Natural product color,Please select up to 2 responses.,Somewhat worse,,Checkbox,GRID
+7,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,Natural product color,Please select up to 2 responses.,Much worse than other similar products,,Checkbox,GRID
+8,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,color,Please select up to 2 responses.,Somewhat better,,Radio Button,GRID
+8,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,color,Please select up to 2 responses.,About the same,,Radio Button,GRID
+8,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,color,Please select up to 2 responses.,Somewhat worse,,Radio Button,GRID
+8,How effective do you expect the new product (${ProductName}) to be versus hair care products you use now?,color,Please select up to 2 responses.,Much worse than other similar products,,Radio Button,GRID
