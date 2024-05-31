@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey Results</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container" style="opacity: 0.9;">
+        <h1>Survey Results for {{ product_name }}</h1>
+        <div class="result">
+            <h2>Generated Personas based on {{persona_type}}: <br>{{ role }}</h2>
+            <pre>{{ personas }}</pre>
+        </div>
+
+        <div class="result">
+            <h2>Generated Survey Questions and Answers for {{ product_name }}:</h2>
+            <pre>{{ questions_and_answers }}</pre>
+        </div>
+
+        <div class="result">
+            <h2>Responses From the Persona taking the survey !!!</h2>
+            <pre>{{ survey_results }}</pre>
+        </div>
+    </div>
+</body>
+</html>

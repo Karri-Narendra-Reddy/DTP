@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Synthetic input</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Create Personas and Take the survey</h1>
+        <form action="{{ url_for('submit') }}" method="POST">
+            <div class="row">
+                <label for="product_name">Persona Type(Role/Goal/Scenario):</label>
+                <input type="text" id="persona_type" name="persona_type" required>
+            </div>
+            
+            <div class="row">
+                <label for="product_name">what kind of (Role/Goal/Scenario)?:</label>
+                <input type="text" id="role" name="role" required>
+            </div>
+
+            <div class="row"> 
+                <label for="product_name">Product Name:</label>
+                <input type="text" id="product_name" name="product_name" required>
+            </div>
+
+            <button type="submit">Create Personas and Take Survey</button>
+        </form>
+    </div>
+    <div id="loadingSpinner"></div>
+    <script src="{{ url_for('static', filename='spinner.js') }}"></script>
+</body>
+</html>
